@@ -20,7 +20,7 @@
 
 头条抖音小程序
 
-<img src="https://user-images.githubusercontent.com/10215059/116716409-4d682d80-aa0a-11eb-8b32-285d5db304a6.png![image]()" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/10215059/116716409-4d682d80-aa0a-11eb-8b32-285d5db304a6.png" width="50%" height="50%">
 
 
 
