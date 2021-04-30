@@ -13,23 +13,29 @@
 希望大家喜欢我们的小程序，也希望大家能多支持LikeU~LikeU未来也会将晓心理整合进来，打造真正意义上的大数据AI智能社交！
 
 
-
 微信小程序
+
 ![image](https://user-images.githubusercontent.com/10215059/116716385-450ff280-aa0a-11eb-977e-f548387c737b.png)
 
 
 
+
 百度小程序
+
 ![image](https://user-images.githubusercontent.com/10215059/116716400-49d4a680-aa0a-11eb-85de-92ff915d501f.png)
 
 
 
+
 头条抖音小程序
+
 <img src="https://user-images.githubusercontent.com/10215059/116716409-4d682d80-aa0a-11eb-8b32-285d5db304a6.png" width="45%" height="45%">
 
 
 
+
 支付宝小程序
+
 <img src="https://user-images.githubusercontent.com/10215059/116716426-51944b00-aa0a-11eb-8ed5-f5c815e51422.png" width="45%" height="45%">
 
 
@@ -38,10 +44,13 @@
 华为快应用
 （预计下周上线）
 
+
 知乎
 （预计下周上线）
 
+
 h5 版
+
 https://eq.520likeu.com/
 
 
@@ -49,8 +58,8 @@ https://eq.520likeu.com/
 <img src="https://user-images.githubusercontent.com/10215059/116716440-56f19580-aa0a-11eb-8fe0-0617a33a98ac.png" width="90%" height="90%">
 
 
+<img src="https://user-images.githubusercontent.com/10215059/116716453-59ec8600-aa0a-11eb-94c0-d6677d0a1cae.png" width="60%" height="60%">
 
-<img src="https://user-images.githubusercontent.com/10215059/116716453-59ec8600-aa0a-11eb-94c0-d6677d0a1cae.png" width="6%" height="60%">
 
 
 
