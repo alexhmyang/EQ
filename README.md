@@ -19,7 +19,10 @@
 ![image](https://user-images.githubusercontent.com/10215059/116716400-49d4a680-aa0a-11eb-85de-92ff915d501f.png)
 
 头条抖音小程序
-![image](https://user-images.githubusercontent.com/10215059/116716409-4d682d80-aa0a-11eb-8b32-285d5db304a6.png)
+
+<img src="![image](https://user-images.githubusercontent.com/10215059/116716409-4d682d80-aa0a-11eb-8b32-285d5db304a6.png)" width="50%" height="50%">
+
+
 
 支付宝小程序
 ![image](https://user-images.githubusercontent.com/10215059/116716426-51944b00-aa0a-11eb-8ed5-f5c815e51422.png)
